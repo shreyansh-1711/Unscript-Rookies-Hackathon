@@ -17,5 +17,4 @@ consist of performance.
 * Performance measures, like Confusion Matrix and Area Under Curve (AUC), was
 used to compare the performance of the models.
 
-### This analysis was conducted using Python through Jupyter notebook. In-built libraries
-and methods were used to run the machine learning models.
+### This analysis was conducted using Python through Jupyter notebook. In-built libraries and methods were used to run the machine learning models.
